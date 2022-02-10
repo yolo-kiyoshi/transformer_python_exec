@@ -7,7 +7,7 @@ verify_ssl = true
 
 [packages]
 pip = "*"
-tensorflow = "==1.14.0"
+tensorflow = "==2.5.3"
 tensor2tensor = "==1.10.0"
 jupyterlab = "*"
 google-cloud-storage = "*"
